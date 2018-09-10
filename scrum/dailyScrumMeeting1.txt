@@ -1,0 +1,118 @@
+
+# Fill in, commit and push each day.
+# Group Member: Oksana Moskal	
+
+Oct 23, 2017
+	Yesterday : N/A.
+	Today     : Read through the assignment and understood.
+	Obstacles : None.
+
+Oct 24, 2017
+	Yesterday : Read through assignment and understood.
+	Today     : No work done.
+	Obstacles : N/A.
+
+Oct 25, 2017
+	Yesterday : No work done.
+	Today     : Met with the group and divided up parts of assignment.
+	Obstacles : None.
+
+Oct 26, 2017
+	Yesterday : Divided parts of the assignment.
+	Today     : Midterm studying.
+	Obstacles : Midterm.
+
+Oct 27, 2017
+	Yesterday : Midterm studying.
+	Today     : Midterm studying. 
+	Obstacles : Midterm.
+
+Oct 28, 2017
+	Yesterday : Midterm.
+	Today     : Rest day.
+	Obstacles : CSC236 Problem Set x_x
+
+Oct 29, 2017
+	Yesterday : Rest day.
+	Today     : CSC236 Problem Set x_x
+	Obstacles : Problem set.
+
+Oct 30, 2017
+	Yesterday : Problem set.
+	Today     : Read through everyone else's work and understood all user stories.
+	Obstacles : N/A.
+
+Oct 31, 2017
+	Yesterday : Read through and understood.
+	Today     : Created my branch & finished Bug 6, and user Stories 1 & 2.
+	Obstacles : Nothing so far.
+
+Nov 1, 2017
+	Yesterday : Finished my user stories and bug.
+	Today     : No work done.
+	Obstacles : Nothing.
+	
+Nov 2, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A	
+
+Nov 3, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 4, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 5, 2017
+	Yesterday : No work done.
+	Today     : Checked over everyone's work to make sure everything is working properly.
+	Obstacles : N/A
+
+Nov 6, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 7, 2017
+	Yesterday : No work done.
+	Today     : Met with group to discuss design patterns and divy up work.
+	Obstacles : N/A
+	
+Nov 8, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 9, 2017
+	Yesterday : No work done.
+	Today     : Met with group to discuss design patterns and get our code working properly.
+	Obstacles : N/A
+
+Nov 10, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 11, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 12, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 13, 2017
+	Yesterday : No work done.
+	Today     : N/A
+	Obstacles : N/A
+	
+Nov 14, 2017
+	Yesterday : No work done.
+	Today     : Working on design patterns and fixing buttons.
+	Obstacles : How does strategy work???

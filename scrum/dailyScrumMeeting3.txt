@@ -1,0 +1,118 @@
+# Fill in, commit and push each day.
+# Group Member: Jeremy Nevado
+
+Oct 23, 2017
+	Yesterday :N/A
+	Today     :No work done
+	Obstacles :group still has yet to meet and plan
+
+Oct 24, 2017
+	Yesterday :No work done
+	Today     :No work done
+	Obstacles :Group still could not meet
+
+Oct 25, 2017
+	Yesterday :Nothing
+	Today     :Group meeting. Planning work division.
+	Obstacles :During a leafs game
+
+Oct 26, 2017
+	Yesterday : Group meeting. Divided work and discussed how the program functions
+	Today     : N/A
+	Obstacles : Midterm Studying
+
+Oct 27, 2017
+	Yesterday :Midterm Studying
+	Today     :Midterm
+	Obstacles :Midterm
+
+Oct 28, 2017
+	Yesterday :Midterm
+	Today     :Starting work on UserStory5
+	Obstacles :Making color chooser compatible with all shape classes. 
+
+Oct 29, 2017
+	Yesterday :Implemented UserStory5 ColorSelector
+	Today     :Clean up ColorSelector Code
+	Obstacles :
+
+Oct 30, 2017
+	Yesterday :Cleaned up color selector code
+	Today     :N/A
+	Obstacles :CSC236 problem set
+
+Oct 31, 2017
+	Yesterday :N/A
+	Today     :Start UserStory 6/7 and implement shapes class
+	Obstacles :
+
+Nov 1, 2017
+	Yesterday :Started UserStoy 6
+	Today     :N/A
+	Obstacles : Paper to be done for another class
+	
+Nov 2, 2017
+	Yesterday :N/A
+	Today     :Finish UserStory6 and fix Rectangle/Shape. Group meeting as well.
+	Obstacles :Conflicts with classes caused some memebers to miss the meeting.
+	
+Nov 3, 2017
+	Yesterday :
+	Today     :Fixed UserStory6 to work better. Finished Bug7, Bug5 and Bug2.
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 6, 2017
+	Yesterday :
+	Today     :First group meeting for a2p2. Talked about design patterns and
+				implemented the Command Design to make the model better. Finshed Bug2.2.
+	Obstacles : Not understading what the Command design patter does.
+	
+Nov 7, 2017
+	Yesterday :Implemented Command Design Pattern and finished Bug2.2.
+	Today     :Fully completed Bug 2.4
+	Obstacles :N/A
+	
+Nov 8, 2017
+	Yesterday :Completed Bug 2.4
+	Today     : Group meeting to discuss Design Patterns further. Helped implement undo.
+	Obstacles :Command design pattern needed to be explained to group
+	
+Nov 9, 2017
+	Yesterday :Worked on undo and group meeting
+	Today     :Finished Bug2.5 by implmenting Command Design Pattern on drawing modifiers.
+	Obstacles :
+	
+Nov 10, 2017
+	Yesterday :Finished Bug2.5
+	Today     :N/A
+	Obstacles :
+	
+Nov 11, 2017
+	Yesterday :
+	Today     :Finished Bug11 and Bug12
+	Obstacles :
+	
+Nov 12, 2017
+	Yesterday :
+	Today     :Began working on Bug10/Bug2.10. Finished Bug2.3
+	Obstacles :
+	
+Nov 13, 2017
+	Yesterday :
+	Today     :Finished Bug10/Bug2.10. Created and Finished Bug13 and Bug14.
+	Obstacles :
+	
+Nov 14, 2017
+	Yesterday :Finished Bug10 Bug2.10 Bug13 and Bug 14
+	Today     :Finished UserStory2.3 Redo
+	Obstacles :

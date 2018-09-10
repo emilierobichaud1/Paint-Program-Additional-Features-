@@ -1,0 +1,118 @@
+# Fill in, commit and push each day.
+# Group Member: Emilie Robichaud 
+
+Oct 23, 2017
+	Yesterday : No work done. 
+	Today     : Created branch. 
+	Obstacles : Understanding branches; read course notes for clarification. 
+
+Oct 24, 2017
+	Yesterday : Created branch as lab specified. 
+	Today     : No work done. 
+	Obstacles : None. 
+
+Oct 25, 2017
+	Yesterday : No work done.
+	Today     : No work done. 
+	Obstacles : None.
+
+Oct 26, 2017
+	Yesterday : No work done.
+	Today     : Assigned user stories. 
+	Obstacles : None. 
+
+Oct 27, 2017
+	Yesterday : Assigned user stories.
+	Today     : No work done.
+	Obstacles : None.
+
+Oct 28, 2017
+	Yesterday : None.
+	Today     : Finished user stories.
+	Obstacles : Understanding branches.
+
+Oct 29, 2017
+	Yesterday : Finished user stories.
+	Today     : No work done.
+	Obstacles : None.
+
+Oct 30, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None. 
+
+Oct 31, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None.
+
+Nov 1, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None.
+	
+Nov 2, 2017
+	Yesterday : No work done.
+	Today     : Tried to fix bug in drawing squares and rectangles; fixed rectangles but not squares.
+	Obstacles : FIguring out how to make the squares and rectangles be drawn from any direction, not just down and to the right.
+	
+Nov 3, 2017
+	Yesterday : Tried to fix bug in drawing squares and rectangles.
+	Today     : Tried to fix bug in drawing squares.
+	Obstacles : Understand how Square should be modeled compare to Rectangle.
+
+Nov 4, 2017
+	Yesterday : Tried to fix bug in drawing squares.
+	Today     : No work done.
+	Obstacles : None.
+
+Nov 5, 2017
+	Yesterday : No work done.
+	Today     : Cleaned up code for submission. Fixed polyline and implemented polyline thickness. 
+	Obstacles : None.
+	
+Nov 6, 2017
+	Yesterday : Cleaned up code for submission. Made some changes to polyline and implemented polyline thickness.
+	Today     : No work done.
+	Obstacles : None.
+	
+Nov 7, 2017
+	Yesterday : No work done.
+	Today     : Discussed architecture changes with group.
+	Obstacles : Understanding how to change the architecture.
+	
+Nov 8, 2017 
+	Yesterday : Discussed architecture. 
+	Today     : No work done.
+	Obstacles : None. 
+	
+Nov 9, 2017 
+	Yesterday : No work done.
+	Today     : Divided up more user stories. Discussed architecture more. 
+	Obstacles : Understanding architecture. 
+	
+Nov 10, 2017
+	Yesterday : Discussed changes to architecture. 
+	Today     : No work done. 
+	Obstacles : None. 
+	
+Nov 11, 2017
+	Yesterday : No work done. 
+	Today     : No work done.
+	Obstacles : None.
+	
+Nov 12, 2017
+	Yesterday : No work done. 
+	Today     : Added triangle button.
+	Obstacles : None. 
+	
+Nov 13, 2017
+	Yesterday : Added triangle button.
+	Today     : Implemented triangle so the user can now draw triangles.
+	Obstacles : None. 
+	
+Nov 14, 2017
+	Yesterday : 
+	Today     : 
+	Obstacles :
+

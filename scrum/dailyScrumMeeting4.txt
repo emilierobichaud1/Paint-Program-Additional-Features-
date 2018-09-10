@@ -1,0 +1,117 @@
+# Fill in, commit and push each day.
+# Group Member: Roman Krutikov
+
+Oct 23, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+
+Oct 24, 2017
+	Yesterday : No work done.
+	Today     : Joined the group and found out the names of the group members.
+	Obstacles : Not knowing who the group members are in person.
+
+Oct 25, 2017
+	Yesterday : Joined the group and found out the names of the group members.
+	Today     : Facebook group established, meeting time for October 26 scheduled
+	Obstacles : Not knowing who the group members are in person.
+
+Oct 26, 2017
+	Yesterday : Facebook group established, meeting time for October 26 scheduled
+	Today     : Group meeting, met everyone in person, work somewhat distributed.
+	Obstacles : No work done.
+
+Oct 27, 2017
+	Yesterday : Group meeting, met everyone in person, work somewhat distributed.
+	Today     : No work done.
+	Obstacles : No work done.
+
+Oct 28, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+
+Oct 29, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+
+Oct 30, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+
+Oct 31, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+
+Nov 1, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+	
+Nov 2, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+	
+Nov 3, 2017
+	Yesterday : No work done.
+	Today     : Started working on UserStory7.
+	Obstacles : Having trouble with the branches.
+
+Nov 4, 2017
+	Yesterday : Started working on UserStory7.
+	Today     : Had to make a new branch for UserStory7 before completing, finished Bug1 and found a new Bug8.
+	Obstacles : 
+
+Nov 5, 2017
+	Yesterday : Had to make a new branch for UserStory7 before completing, finished Bug1 and found a new Bug8.
+	Today     : Fixed Bug8, Re-organized productBacklog so it was easier to follow
+	Obstacles :
+
+Nov 6, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+	
+Nov 7, 2017
+	Yesterday : No work done.
+	Today     : Group meeting to discuss who will be doing what, contacted mentor for help.
+	Obstacles : Understanding what has to be done in terms of the architecture of the program.
+	
+Nov 8, 2017
+	Yesterday : Group meeting to discuss who will be doing what, contacted mentor for help.
+	Today     : No work done.
+	Obstacles : No work done.
+	
+Nov 9, 2017
+	Yesterday : No work done.
+	Today     : Group meeting discussing the architecture of the program, worked on Undo Button. 
+	Obstacles : Getting the screen to update the changes made with the undo button
+	
+Nov 10, 2017
+	Yesterday : Group meeting discussing the architecture of the program, worked on Undo Button. 
+	Today     : Undo button now updates on screen.
+	Obstacles : None.
+	
+Nov 11, 2017
+	Yesterday : Undo button now updates on screen.
+	Today     : No work done.
+	Obstacles : No work done.
+	
+Nov 12, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : No work done.
+	
+Nov 13, 2017
+	Yesterday : No work done.
+	Today     : Made another version of undo because I was getting merge conflicts.
+	Obstacles : None.
+	
+Nov 14, 2017
+	Yesterday : Made another version of undo because I was getting merge conflicts.
+	Today     : Made redo work.
+	Obstacles : Turns out someone else made undo and redo, so my branches weren't used.
